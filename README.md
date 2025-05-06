@@ -38,9 +38,9 @@
 
 [ns.yaml](ns.yaml)
 
-    <details><summary>ns.yaml</summary>
+<details><summary>ns.yaml</summary>
 
-    ```yaml
+```yaml
     ---
     apiVersion: v1
     kind: Namespace
@@ -48,9 +48,9 @@
         name: netology
         namespace: netology
     ...
-    ```
+```
 
-    </details>
+</details>
 
 
 1. [deployment.yaml](deployment.yaml)
