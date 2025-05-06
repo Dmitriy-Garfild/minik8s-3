@@ -50,7 +50,7 @@
     ...
 ```
 
-    </details>
+</details>
 
 
 1. [deployment.yaml](deployment.yaml)
